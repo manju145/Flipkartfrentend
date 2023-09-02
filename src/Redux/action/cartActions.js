@@ -2,7 +2,7 @@ import axios from "axios"
 import * as actionType from "../constants/cartConstant"
 
 
-const URL= 'https://agreeable-hospital-gown-tuna.cyclic.app';
+const URL= 'https://flipkartbackend-u4mz.onrender.com';
 
 export const addToCart =(id,quantity)=> async(dispatch) =>{
 try{

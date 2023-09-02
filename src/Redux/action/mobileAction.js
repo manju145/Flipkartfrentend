@@ -1,7 +1,7 @@
 import axios from "axios";
 import * as actionTypes from "../constants/mobiledata"
 
-const URL= 'https://agreeable-hospital-gown-tuna.cyclic.app';
+const URL= 'https://flipkartbackend-u4mz.onrender.com';
 
 
 
